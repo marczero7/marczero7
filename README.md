@@ -1,12 +1,11 @@
 ### Olá eu sou o Márcio Nogueira
 
 - 🌱 Estou atualmente aprendendo HTML, CSS e Javascript.
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/marczero7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marczero7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marczero7&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcio-Nogueira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcio-Nogueira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
