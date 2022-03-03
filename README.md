@@ -1,6 +1,6 @@
 ### Olá eu sou o Márcio Nogueira
 
-- 🌱 Estou atualmente aprendendo HTML, CSS e Javascript.
+- Estou atualmente no 3º semestre de analise e desenvolvimento de sistemas na FATEC, onde aprendi um pouco de C e atualmente estou aprendendo entre outras coisas programação orientada a objeto na linguagem JAVA, fora a faculdade também estudo por fora no melhor estilo self-taught as linguagens Javascript, HTML e CSS. No meu repositório você vai encontrar alguns projetos da faculdade, outros de cursos que realizei, como o Full stack master do ProgramadorBR, projetos do freeCodeCamp e projetos pessoais.  
 
 <div align="center">
   <a href="https://github.com/marczero7">
